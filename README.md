@@ -3,8 +3,8 @@ Que onda, soy [Darkyy](https://guns.lol/darkyy), todo bien. Llevo 2 años en est
 ## Mis conocimientos
 > <a href="https://javascript.com/"><img src="https://img.icons8.com/color/30/000000/javascript.png"/></a> 
 <a href="https://nodejs.org/en/"><img src="https://img.icons8.com/windows/30/4caf50/node-js.png"/></a> 
-<a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.org"/></a> 
-<a href="https://lua.org/"><img src="https://icons8.com/icon/42bqS7y7Ga9o/lua-language"/></a> 
+<a href="https://python.org/"><img src="https://img.icons8.com/color/30/000000/python.png"/></a> 
+<a href="https://lua.org/"><img src="https://i.imgur.com/9k4BkxP.png"/></a> 
 ## Proyectos
 > **Solo presento proyectos publicos y no privados. (hago bots de discord...)**
 - [DarkyyTweaks](https://dsc.gg/darkyytweaks) - Programador Principal
