@@ -4,7 +4,7 @@
 # Sobre mí
 Que onda, soy [Darkyy](https://guns.lol/darkyy), todo bien. Llevo 2 años en esto de la programación y bueno quiero aprender mas cada día.
 ## Mis conocimientos
-[![SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;javascript,;c#,;js,;python,;html,;lua,;batch)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.herokuapp.com?color=F7007A&duration=400&lines=js,;python,;javascript,;js,;python,;html,;lua,;batch)](https://git.io/typing-svg)
 ## Proyectos
 > **Solo presento proyectos publicos y no privados. (hago bots de discord...)**
 - [DarkyyTweaks](https://dsc.gg/darkyytweaks) - Programador Principal
