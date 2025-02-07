@@ -1,3 +1,6 @@
+[![SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&size=30&duration=5000&pause=1000&color=33F741&background=1E42FF00&center=true&width=435&lines=DARKYYZZ)](https://git.io/typing-svg)
+[![SVG](https://readme-typing-svg.demolab.com?font=Unbounded&weight=700&pause=1000&color=1D6CF7&background=1E42FF00&center=true&width=435&lines=GITHUB.COM%2FDARKYYZZ)](https://git.io/typing-svg)
+
 # Sobre mí
 Que onda, soy [Darkyy](https://guns.lol/darkyy), todo bien. Llevo 2 años en esto de la programación y bueno quiero aprender mas cada día.
 ## Mis conocimientos
